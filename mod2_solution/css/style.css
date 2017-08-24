@@ -15,15 +15,17 @@ p {
 
 .section{
   border: 1px solid black;
+  background-color: lightgray;
   position: relative;
-  padding-top: 10px; 
-  margin: 10px;
+  padding-top: 15px; 
+  margin: 12px;
 }
 
 .title{
   border: 1px solid black;
+  font-size: 1.3em;
   text-align: center;
-  width: 30%;
+  width: 40%;
   position: absolute;
   right: 0px;
   top: 0px;
